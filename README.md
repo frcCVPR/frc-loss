@@ -5,4 +5,4 @@ The python code accompanies the manuscript _Image quality measurements and denoi
 In the **notebooks** folder all the images shown in the manuscript are generated using jupyter notebooks. 
 The data and network models used in the notebooks are deposited in [Zenodo repository](https://zenodo.org/record/5831014#.YdnW_VjMLeo)
 
-Examples of training FRC neural networks, and additional processing with FRC will be added soon.   
+Examples of training FRC neural networks, and additional processing with FRC will be added in the next days.   
